@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
 
     // NASA API key
     // Replace DEMO_KEY with your own NASA API key from https://api.nasa.gov if rate limited.
-    private static final String API_KEY = "Wle6E0jIcJ2ztdGGaNwB8pHVNNbbsVuC94Ud0n4n";
+    private static final String API KEY"DEMO_KEY";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
