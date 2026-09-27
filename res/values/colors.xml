@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <color name="background">#F7F7F5</color>
+
+    <color name="text_primary">#111111</color>
+    <color name="text_secondary">#666666</color>
+    <color name="text_muted">#999999</color>
+
+    <color name="accent">#3B6FF5</color>
+
+    <color name="divider">#E5E5E2</color>
+
+    <color name="button_dark">#111111</color>
+    <color name="button_text">#FFFFFF</color>
+    <color name="button_border">#D9D9D5</color>
+
+</resources>
